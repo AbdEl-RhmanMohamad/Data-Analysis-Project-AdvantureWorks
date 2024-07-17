@@ -4,7 +4,10 @@
 **SQL Server** and **Power BI**.
 
 ## Dataset:
+
 **AdvantureWorks** dataset published by [Microsoft](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms).
+
+## Dashboard:
 **Power BI** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2YyNzVmZjYtYTExYi00MThmLWEwMzYtY2M5NTg0OWVmMjE0IiwidCI6ImZkZGIwMWFkLTQ5ODMtNDM2ZS1hYjM1LTFhZjA0M2I4MThjOSIsImMiOjN9).
 
 ## Data Cleaning using SQL
@@ -94,4 +97,11 @@ ORDER BY
 ![image](https://github.com/user-attachments/assets/8643d0b8-725f-412e-adb4-11236575297d)
 
 ## Power BI Dashboard
+- **Sales Overview**
 ![image](https://github.com/user-attachments/assets/9a0b321e-5581-4569-982e-dd6ae565f426)
+
+- **Customer Details**
+  ![image](https://github.com/user-attachments/assets/81a2c60c-f31a-41d1-9634-88f928ab7c79)
+
+- **Products Details**
+  ![image](https://github.com/user-attachments/assets/17722bf0-7490-4ed3-8b59-7b0da57b6323)
